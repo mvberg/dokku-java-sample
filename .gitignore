@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .project
 .classpath
 .settings/
@@ -8,3 +9,11 @@ target/
 
 release.properties
 pom.xml.*
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> 527c7bf6c27d94be18b14a54d16ce0e5fb232a80
