@@ -2,18 +2,14 @@ package com.eba.one.test;
 
 public class Main {
 
-	public Main m;
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
-		System.out.println("Hello world again");
+		System.out.println("Hello world.");
 
 		new Main();
 	}
 
 	public Main() {
+
 		while (!Thread.interrupted()) {
 
 			try {
